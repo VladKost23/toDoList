@@ -1,0 +1,21 @@
+body{
+  background:url('img/old-paper-text.jpg');
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.row{
+margin: 100px;
+}
+.toDo{
+  text-align: center;
+}
+.table{
+  background: rgba(37, 251, 223, 0.8);
+  border-radius: 10px;
+}
+.table tr{
+  
+}
+.table td{
+  border-top: none;
+  vertical-align: middle;
+}
